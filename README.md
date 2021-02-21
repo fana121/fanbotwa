@@ -49,7 +49,12 @@ ket : ✅ : aktif
 
 
 ## THANKS TO
-* [`termux-whatsapp-bot`](https://github.com/fdciabdul/termux-whatsapp-bot)
+* ALLAH SWT
+* MUHAMMAD SAW
+* AYAH & IBU
+* FANA121
 
 ## DONASI
 * Gopay : 085891927691 (F a n a G a n s)
+* Dana : 085891927691 (Fana Gans)
+* Ovo : 082137299043 (Fana Gans)
